@@ -1,3 +1,7 @@
+/*  Ana Claudia Krahl  
+    Desenvolvimento Mobile  */
+
+//INÍCIO
 import 'package:flutter/material.dart'; //importar pacote que fornece a estrutura base
 
 void main() {
